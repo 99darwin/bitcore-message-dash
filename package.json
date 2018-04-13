@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-message-dash",
+  "name": "bitcore-message-divi",
   "version": "1.0.9",
-  "description": "Dash Messages for Bitcore-Dash",
+  "description": "Dash Messages for Bitcore-Divi",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -11,17 +11,17 @@
     "build": "gulp"
   },
   "keywords": [
-    "dash",
-    "bitcore-dash",
+    "divi",
+    "bitcore-divi",
     "message",
     "signing"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dashevo/bitcore-message-dash.git"
+    "url": "https://github.com/divicoin/bitcore-message-divi.git"
   },
   "dependencies": {
-    "bitcore-lib-dash": "^0.15.2"
+    "divicore-lib": "^0.15.35"
   },
   "devDependencies": {
     "bitcore-build-dash": "dashpay/bitcore-build-dash",
