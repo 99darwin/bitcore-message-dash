@@ -1,4 +1,4 @@
-# Dash Message Verification and Signing for Bitcore-Dash
+# Divi Message Verification and Signing for Bitcore-Divi
 
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-message-divi.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-message-divi)
