@@ -1,6 +1,6 @@
 {
   "name": "bitcore-message-divi",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Dash Messages for Bitcore-Divi",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
