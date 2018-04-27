@@ -21,7 +21,7 @@
     "url": "https://github.com/divicoin/bitcore-message-divi.git"
   },
   "dependencies": {
-    "divicore-lib": "^0.15.35"
+    "divicore-lib": "^0.15.5"
   },
   "devDependencies": {
     "bitcore-build-dash": "dashpay/bitcore-build-dash",
